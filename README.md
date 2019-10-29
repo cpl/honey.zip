@@ -1,5 +1,9 @@
 # honey.zip
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/cpl/honey.zip)](https://goreportcard.com/report/github.com/cpl/honey.zip)
+---
+
+
 A minimal Go web-server that will respond to any and all requests with a simple `200` and a file (which I recommend to be a [zip bomb](https://en.wikipedia.org/wiki/Zip_bomb) with a masked name).
 
 **Disclaimer**, do not use for malicious purposes. Only for educational, pen-testing and proof-of-concept purposes.
